@@ -25,7 +25,7 @@
 		   mkdir -p /home/balaji/.ssh
 		   touch /home/balaji/.ssh/authorized_keys
 		   chmod -R 700 /home/balaji/.ssh
-		   vi /home/naresh/.ssh/authorized_keys  (enter the copied contet of id_rsa.pub from controller & save the file)
+		   vi /home/balaji/.ssh/authorized_keys  (enter the copied contet of id_rsa.pub from controller & save the file)
 ```	
 	
 
