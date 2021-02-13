@@ -1,0 +1,2 @@
+[test]
+10.128.0.15 ansible_user=cluster-child
